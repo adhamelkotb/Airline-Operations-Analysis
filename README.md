@@ -84,9 +84,3 @@ Airline-Operations-Analysis/
 └── images/
     └── airline_dashboard.png
 ```
-
-## Note
-
-The dashboard is provided as a static image preview; this repository does not contain an interactive Tableau Public link.
-
-Before making this repository public, confirm that the dataset, dashboard screenshot, SQL, and any related case-study material are permitted for public sharing and do not expose confidential or personal information.
